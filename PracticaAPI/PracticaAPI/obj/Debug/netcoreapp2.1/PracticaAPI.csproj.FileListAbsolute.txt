@@ -1,0 +1,14 @@
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\bin\Debug\netcoreapp2.1\PracticaAPI.deps.json
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\bin\Debug\netcoreapp2.1\PracticaAPI.runtimeconfig.json
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\bin\Debug\netcoreapp2.1\PracticaAPI.runtimeconfig.dev.json
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\bin\Debug\netcoreapp2.1\PracticaAPI.dll
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\bin\Debug\netcoreapp2.1\PracticaAPI.pdb
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.csproj.CoreCompileInputs.cache
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.RazorAssemblyInfo.cache
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.RazorAssemblyInfo.cs
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.AssemblyInfoInputs.cache
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.AssemblyInfo.cs
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.dll
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.pdb
+C:\Users\jfsauc2\source\repos\PracticaAPI\PracticaAPI\obj\Debug\netcoreapp2.1\PracticaAPI.csprojAssemblyReference.cache
